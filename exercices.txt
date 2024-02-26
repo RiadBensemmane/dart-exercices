@@ -1,0 +1,24 @@
+exercice 0 :
+Write a program in Dart that finds simple interest. Formula= (p * t * r) / 100
+exercice 1 :
+Write a dart program to create a simple calculator that performs addition, subtraction, multiplication, and division.
+exercice 2 :
+Write a dart program to print 1 to 100 but not 41.
+exercice 3:
+Write a function in Dart called createUser with parameters name, age, and isActive, where isActive has a default value of true.
+exercice 4:
+Add your 7 friend names to the list. Use where to find a name that starts with alphabet a.
+exercice 5 :
+Write a dart program to create a class Laptop with properties [id, name, ram] and create 3 objects of it and print all details.
+exercice 6 :
+Create an interface called Bottle and add a method to it called open(). Create a class called CokeBottle and implement the Bottle and print the message “Coke bottle is opened”. Add a factory constructor to Bottle and return the object of CokeBottle. Instantiate CokeBottle using the factory constructor and call the open() on the object.
+exercice 7:
+Create a late variable named address, assign a US value to it and print it.
+exercice 8 :
+Write a function that accepts a nullable int parameter and returns 0 if the value is null using null coalescing operator ??.
+exercice 9 :
+Write a program in dart that reads csv file and print it’s content.
+exercice 10 :
+Write a Dart program that takes a list of strings as input, sorts the list asynchronously, and then prints the sorted list.
+exercice 11 :
+Create a simple quiz application using oop that allows users to play and view their score (console app).
